@@ -1,0 +1,10 @@
+{
+  "qtConfigure.qtKitDir": "d:/Qt/5.15.2/mingw81_64",
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "qdebug": "cpp",
+    "new": "cpp",
+    "qtreewidgetitem": "cpp",
+    "qmainwindow": "cpp"
+  }
+}

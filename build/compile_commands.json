@@ -1,0 +1,17 @@
+[
+{
+  "directory": "F:/VSCodeproject/qttest/build",
+  "command": "D:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\test.dir\\test_autogen\\mocs_compilation.cpp.obj -c F:\\VSCodeproject\\qttest\\build\\test_autogen\\mocs_compilation.cpp",
+  "file": "F:/VSCodeproject/qttest/build/test_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "F:/VSCodeproject/qttest/build",
+  "command": "D:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\test.dir\\src\\main.cpp.obj -c F:\\VSCodeproject\\qttest\\src\\main.cpp",
+  "file": "F:/VSCodeproject/qttest/src/main.cpp"
+},
+{
+  "directory": "F:/VSCodeproject/qttest/build",
+  "command": "D:\\MinGW\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/test.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\test.dir\\src\\test.cpp.obj -c F:\\VSCodeproject\\qttest\\src\\test.cpp",
+  "file": "F:/VSCodeproject/qttest/src/test.cpp"
+}
+]

@@ -1,0 +1,4 @@
+F:/VSCodeproject/qttest/build/CMakeFiles/test.dir
+F:/VSCodeproject/qttest/build/CMakeFiles/edit_cache.dir
+F:/VSCodeproject/qttest/build/CMakeFiles/rebuild_cache.dir
+F:/VSCodeproject/qttest/build/CMakeFiles/test_autogen.dir
